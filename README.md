@@ -49,7 +49,7 @@ Through this project, I gained practical experience in **data preparation, Power
 
 ## 📷 Dashboard Preview
 
-![Chocolate Sales Dashboard](Dashboard.png)
+![Chocolate Sales Dashboard](dashboard.png)
 
 ## 🚀 Outcome
 
